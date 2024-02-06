@@ -1,1 +1,5 @@
-# MyProjectsWork
+- 👋 Hi, I’m @ChethuCodes
+- 👀 I’m interested in Coding with Programming languages such as Swift, JavaScript, & Java.
+- 🌱 I’m currently learning Swift, JavaScript, & Java.
+- 💞️ I’m looking to collaborate on above programming languages based famous frameworks.
+- 📫 How to reach me via mail ID.
